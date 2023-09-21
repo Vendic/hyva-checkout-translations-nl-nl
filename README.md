@@ -3,5 +3,5 @@ This module contains the Dutch translations for the [Hyvä checkout](https://www
 
 ## Installation
 ```bash
-composer require vendic/hyva-checkout-nl
+composer require vendic/hyva-checkout-translations-nl-nl
 ```
