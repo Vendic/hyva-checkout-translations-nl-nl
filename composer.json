@@ -1,0 +1,16 @@
+{
+    "name": "vendic/hyva-checkout-translations-nl-nl",
+    "description": "Dutch translations for the Magento 2/Mage-OS Hyvä checkout",
+    "license": [
+        "MIT",
+    ],
+    "require": {
+        "hyva-themes/magento2-hyva-checkout": "*"
+    },
+    "type": "magento2-language",
+    "autoload": {
+        "files": [
+            "src/registration.php"
+        ]
+    }
+}
