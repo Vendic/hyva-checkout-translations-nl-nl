@@ -2,7 +2,7 @@
     "name": "vendic/hyva-checkout-translations-nl-nl",
     "description": "Dutch translations for the Magento 2/Mage-OS Hyvä checkout",
     "license": [
-        "MIT",
+        "MIT"
     ],
     "require": {
         "hyva-themes/magento2-hyva-checkout": "*"
