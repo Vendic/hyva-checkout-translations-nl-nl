@@ -34,7 +34,7 @@
 "Deny Terms","Voorwaarden weigeren"
 "No shipping method selected.","Geen verzendmethode geselecteerd."
 "Unknown","Onbekend"
-"Order process completed successfully.","Bestelproces succesvol afgerond."
+"Order process completed successfully.","Bestelling is in behandeling."
 "You are being redirected, please wait...","Je wordt doorgestuurd, even geduld a.u.b..."
 "If no email tooltip was manually configured, the field will fallback using the original ""We'll send your order confirmation here"" Luma Checkout text as its tooltip description.","Als er geen e-mail tooltip handmatig is geconfigureerd, zal het veld terugvallen op de originele tekst ""We sturen hier je orderbevestiging"" van Luma Checkout als tooltip beschrijving."
 "If no telephone tooltip was manually configured, the field will fallback using the original ""For delivery questions"" Luma Checkout text as its tooltip description.","Als er geen telefoon tooltip handmatig is geconfigureerd, zal het veld terugvallen op de originele tekst ""Voor leveringsvragen"" van Luma Checkout als tooltip beschrijving."
