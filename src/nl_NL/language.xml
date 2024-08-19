@@ -3,6 +3,6 @@
           xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>nl_NL</code>
     <vendor>vendic</vendor>
-    <package>hyva-checkout-nl</package>
+    <package>hyva-checkout-nl-nl</package>
     <sort_order>200</sort_order>
 </language>
