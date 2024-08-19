@@ -10,7 +10,8 @@
     "type": "magento2-language",
     "autoload": {
         "files": [
-            "src/registration.php"
+            "src/nl_NL/registration.php",
+            "src/nl_BE/registration.php"
         ]
     }
 }
