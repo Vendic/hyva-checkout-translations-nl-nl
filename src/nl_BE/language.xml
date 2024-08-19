@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
+    <code>nl_BE</code>
+    <vendor>vendic</vendor>
+    <package>hyva-checkout-nl-be</package>
+    <sort_order>100</sort_order>
+    <use vendor="vendic" package="hyva-checkout-nl-nl"/>
+</language>
